@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice_v3</string>
+    <string name="girar">Girar Dados</string>
+    <string name="Instrucciones">Da click en \"Girar dado\" para girar los dados y obtener nuevos valores</string>
+</resources>
